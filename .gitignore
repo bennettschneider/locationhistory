@@ -131,3 +131,4 @@ dmypy.json
 # json or kml files
 *.json
 *.kml
+*.html
